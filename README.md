@@ -4,6 +4,10 @@ A <b>'Fisheye Uncurling Module'</b> to correct the image distortion caused by th
 <b>Project:</b><br/>
 A <b>'Fisheye Uncurling Module'</b> to correct the image distortion caused by the Fisheye Lens and to provide an ease of visualization to the user for better surveillance.<br/>
 
+<b>Programming Language:</b> C++<br/> 
+<b>Image Processing Library:</b> OpenCV<br/>
+<b>IDE Used:</b> Microsoft Visual Studio<br/> 
+
 <b>Introduction:</b><br/>
 This module was prepared as a part of <a href="http://www.i2vsys.com">the I2V Software</a> which provides intelligent surveillance solutions.
 
