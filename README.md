@@ -1,5 +1,5 @@
 # FisheyeUncurlingModule
-A 'Fisheye Uncurling Module' to correct the image distortion caused by the Fisheye Lens and to provide an ease of visualization to the users for better surveillance.
+A <b>'Fisheye Uncurling Module'</b> to correct the image distortion caused by the Fisheye Lens and to provide an ease of visualization to the users for better surveillance.
 
 <b>Project:</b><br/>
 A <b>'Fisheye Uncurling Module'</b> to correct the image distortion caused by the Fisheye Lens and to provide an ease of visualization to the user for better surveillance.<br/>
