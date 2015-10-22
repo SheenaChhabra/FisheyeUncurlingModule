@@ -14,4 +14,5 @@ This module was prepared as a part of <a href="http://www.i2vsys.com">the I2V So
 The Fisheye lens is a special type of lens which covers 360 degree view so we can replace 3-4 normal lens cameras with a single fisheye camera to reduce cost and maintainance but this fisheye lens creates distortion in the image which makes it difficult for the user to visualise it for the surveillance.
 
 <b>Brief Description:</b><br/>
-The distortion caused by Fisheye lens can be removed by uncurling the input image. Simple uncurling algorithm is used to create different types of perspective views. Please check <a href="https://youtu.be/yAQ0Z7oAdoU">input video feed</a> and <a href="https://youtu.be/htuzcN6xayA">output video feed</a> for visualizing different types of perspective views.
+The distortion caused by Fisheye lens can be removed by uncurling the input image. Simple uncurling algorithm is used to create different types of perspective views.<br/>
+Please check <a href="https://youtu.be/yAQ0Z7oAdoU">input video feed</a> and <a href="https://youtu.be/htuzcN6xayA">output video feed</a> for visualizing different types of perspective views.<br/>
